@@ -8,7 +8,7 @@
 	</head>
 	<body>
 		<c:if test="true">
-			<c:out value="The Core Taglib works Here!" />
+			<c:out value="Core Taglib works here!" />
 		</c:if><br/><br/>
 
 		<a href="<c:url value='/test.jsp' />">Test Page</a>
